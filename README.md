@@ -1,2 +1,2 @@
 # dl-lab6-2025
-Graph Neural networks
+Graph Neural Networks
